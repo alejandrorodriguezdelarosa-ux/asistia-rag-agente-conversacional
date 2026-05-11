@@ -1,0 +1,10 @@
+langchain>=0.3
+langchain-google-genai>=2.0
+langchain-community>=0.3
+langchain-text-splitters>=0.3
+langgraph>=0.2
+chromadb>=0.5
+pypdf>=4.0
+python-dotenv>=1.0
+grandalf>=0.8
+streamlit>=1.35
