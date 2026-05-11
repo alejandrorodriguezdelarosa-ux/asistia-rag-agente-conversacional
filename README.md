@@ -4,7 +4,7 @@
 
 Agente conversacional construido con Google Gemini, ChromaDB, LangGraph y LangChain, que responde preguntas sobre Inteligencia Artificial Generativa apoyándose en una base de conocimiento vectorial propia y manteniendo memoria entre turnos.
 
-> 🚀 **[Probar la demo en vivo](#)** *(pendiente de desplegar en Streamlit Cloud)*
+> > 🚀 **[Probar la demo en vivo](https://asistia-rag.streamlit.app/)**
 
 ---
 
